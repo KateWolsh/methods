@@ -1,0 +1,30 @@
+{
+  "name": "methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateWolsh/methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateWolsh/methods/issues"
+  },
+  "homepage": "https://github.com/KateWolsh/methods#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "jest": "^29.6.1",
+    "jest-babel": "^1.0.1"
+  },
+  "dependencies": {
+    "core-js": "^3.31.1"
+  }
+}
